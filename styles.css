@@ -25,7 +25,7 @@ body {
     width: 4rem;
     height: 2rem;
     border-radius: 25px;
-    position: absolute;
+    /* position: absolute; */
   }
   
   /* .hidden {
