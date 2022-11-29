@@ -1,0 +1,45 @@
+body {
+
+    background-color: pink;
+  
+    color: white;
+  
+    padding: 50px;
+  
+  }
+  
+  p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: white;
+    width: 4rem;
+    height: 2rem;
+    border-radius: 25px;
+    position: absolute;
+  }
+  
+  /* .hidden {
+    display:none;
+  } */
+  
+  #move {
+    left: 55%;
+  }
+  
+  #change {
+    left: 45%;
+  }
+
+  #change:hover {
+    cursor:pointer;
+  }
