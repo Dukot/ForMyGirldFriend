@@ -25,7 +25,7 @@ body {
     width: 4rem;
     height: 2rem;
     border-radius: 25px;
-    /* position: absolute; */
+    position: absolute;
   }
   
   /* .hidden {
@@ -33,11 +33,11 @@ body {
   } */
   
   #move {
-    left: 55%;
+    left: 75%;
   }
   
   #change {
-    left: 45%;
+    left: 25%;
   }
 
   #change:hover {
